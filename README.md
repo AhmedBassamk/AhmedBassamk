@@ -1,6 +1,6 @@
 
 <img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" width="100%" alt="error"/>
-<div style="desplay:flex" >
+<div style="display:flex;" >
 <p>
 HI I`m AhmedBassam I`m a Full Stack Web Development <br>
 *Date of birth: 01/10/2002 <br>
