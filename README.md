@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" width="100%" alt="error"/>
-<div style="background-color:red">
+<div>
 <p>
 HI I`m AhmedBassam I`m a Full Stack Web Development <br>
 *Date of birth: 01/10/2002 <br>
@@ -22,6 +22,7 @@ HI I`m AhmedBassam I`m a Full Stack Web Development <br>
 *gmail: ahmedabk2002@gmail.com<br>
 *number phone: (+972) 595063676 <br>
   </p>
+  <span><img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" width="20%" alt="error"/></span>
 </div>
 I am a web developer I started learning since 2018, I started learning
 HTML, CSS and JS then I learned JQuery and I applied many projects
