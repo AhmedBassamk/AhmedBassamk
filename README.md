@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" width="100%" alt="error"/>
 <div style="background-color:red">
 <p>
-<span style="font-size:bold;color:red">HI</span>I`m AhmedBassam
+HI I`m AhmedBassam I`m a Full Stack Web Development 
 Date of birth: 01/10/2002 
 Nationality: Palestinian (Autonomous Palestinian Territories) 
 CONTACT 
@@ -40,12 +40,6 @@ improving myself
 - Interact with other developers
 -I deal with infrastructure issues
 - time management
-Full Stack Web Development 
-frelancer 
-27/09/2020 – CURRENT – Gaza, Autonomous Palestinian
-Territories 
-Address El remal - Althalatini st, Al Kateba, Gaza, Autonomous
-Palestinian Territories | Website https://www.iugaza.edu.ps/en/
-Bachelor's degree in mobile computing and smart
-devices applications 
-IUG University 
+
+
+
