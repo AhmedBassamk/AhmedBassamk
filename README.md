@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 <img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" width="100%" alt="error"/>
 <div style="background-color:red">
 <p>
-HI I`m AhmedBassam I`m a Full Stack Web Development 
-Date of birth: 01/10/2002 
-Nationality: Palestinian (Autonomous Palestinian Territories) 
-CONTACT 
-Tal Al Hawa , Al Quds Hospital P840 Gaza, Autonomous Palestinian Territories (Home)
-gmail: ahmedabk2002@gmail.com
-number phone: (+972) 595063676 
-08/07/2018 – CURRENT – Gaza, Autonomous Palestinian
-Territories
+HI I`m AhmedBassam I`m a Full Stack Web Development <br>
+*Date of birth: 01/10/2002 <br>
+*Nationality: Palestinian (Autonomous Palestinian Territories) <br>
+*CONTACT :Tal Al Hawa , Al Quds Hospital P840 Gaza, Autonomous Palestinian Territories (Home)<br>
+*gmail: ahmedabk2002@gmail.com<br>
+*number phone: (+972) 595063676 <br>
   </p>
 </div>
 I am a web developer I started learning since 2018, I started learning
