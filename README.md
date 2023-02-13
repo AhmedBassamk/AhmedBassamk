@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AhmedBassamk/AhmedBassamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" alt="error"/>
-
-<p><span style="font-size:bold;color:red">HI</span>I`m AhmedBassam
+<img src="https://rms.koenig-solutions.com/Sync_data/CCE_Logo//2813-HowtoMigrateOnPremisesVirtualMachinestoAWS(1)(1).pngL.jpg" width="100%" alt="error"/>
+<div style="background-color:red">
+<p>
+<span style="font-size:bold;color:red">HI</span>I`m AhmedBassam
 Date of birth: 01/10/2002 
 Nationality: Palestinian (Autonomous Palestinian Territories) 
 CONTACT 
@@ -23,7 +23,9 @@ Tal Al Hawa , Al Quds Hospital P840 Gaza, Autonomous Palestinian Territories (Ho
 gmail: ahmedabk2002@gmail.com
 number phone: (+972) 595063676 
 08/07/2018 – CURRENT – Gaza, Autonomous Palestinian
-Territories 
+Territories
+  </p>
+</div>
 I am a web developer I started learning since 2018, I started learning
 HTML, CSS and JS then I learned JQuery and I applied many projects
 then I started free work across many sites and I did some work and
